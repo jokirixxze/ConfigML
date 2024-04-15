@@ -2,18 +2,18 @@
 
 clear
 figlet "RixXze"
-echo "RANK BOOSTER V.I.P V13"
+echo "RANK BOOSTER V.I.P V16"
 echo "Mobile Legends S32"
 sleep 1
 
 echo ""
 read -p " Password : " password
 
-if [ $password = wI8Cb6sSEe ]
+if [ $password = ZuFMjPWtJn ]
 then
 	clear
 	figlet "RixXze"
-	echo "RANK BOOSTER V13"
+	echo "RANK BOOSTER V16"
 	echo "Mobile Legends S32"
 	echo ""
 	echo " Password : wI8Cb6sSEe -true"
